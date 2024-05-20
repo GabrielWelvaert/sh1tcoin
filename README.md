@@ -1,4 +1,4 @@
-Text-File based blockchain cryptocurrency completed for a univesity project:
+text-file-based blockchain cryptocurrency completed for a univesity project:
 
 ● Implemented functionalities such as generating wallets, funding accounts, transferring coins
 between wallets, checking balances, and verifying transactions.
